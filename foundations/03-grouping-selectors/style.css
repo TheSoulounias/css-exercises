@@ -1,5 +1,6 @@
-.both{
-    font-family: "Helvetica", "Time New Roman", "sans-serif";
+.one,
+.two{
+    font-family: Helvetica, "Time New Roman", sans-serif;
     font-size: 28px;
 }
 
